@@ -1,0 +1,14 @@
+/Users/hosie_jr/repos/PascalCase/PascalCase/bin/Debug/netcoreapp3.1/PascalCase
+/Users/hosie_jr/repos/PascalCase/PascalCase/bin/Debug/netcoreapp3.1/PascalCase.deps.json
+/Users/hosie_jr/repos/PascalCase/PascalCase/bin/Debug/netcoreapp3.1/PascalCase.runtimeconfig.json
+/Users/hosie_jr/repos/PascalCase/PascalCase/bin/Debug/netcoreapp3.1/PascalCase.runtimeconfig.dev.json
+/Users/hosie_jr/repos/PascalCase/PascalCase/bin/Debug/netcoreapp3.1/PascalCase.dll
+/Users/hosie_jr/repos/PascalCase/PascalCase/bin/Debug/netcoreapp3.1/PascalCase.pdb
+/Users/hosie_jr/repos/PascalCase/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.csproj.AssemblyReference.cache
+/Users/hosie_jr/repos/PascalCase/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hosie_jr/repos/PascalCase/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.AssemblyInfoInputs.cache
+/Users/hosie_jr/repos/PascalCase/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.AssemblyInfo.cs
+/Users/hosie_jr/repos/PascalCase/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.csproj.CoreCompileInputs.cache
+/Users/hosie_jr/repos/PascalCase/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.dll
+/Users/hosie_jr/repos/PascalCase/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.pdb
+/Users/hosie_jr/repos/PascalCase/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.genruntimeconfig.cache
